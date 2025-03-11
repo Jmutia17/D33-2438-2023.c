@@ -3,6 +3,7 @@ Name: Jonathan Kavuvi Mutia
 Reg NO: D33-2438-2023
 Unit code: BMS 201
 Unit name: Computer programming 
+*/
 
 // Using for loop
 for (i = 1; i <= n; i++) {
